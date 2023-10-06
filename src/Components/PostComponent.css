@@ -1,0 +1,46 @@
+.postCard {
+  display: flex;
+  width: 364px;
+  padding: 9px 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+
+  border-radius: 12px;
+  border: 1px solid #e0e0e0;
+  background: #fbfbfb;
+}
+.postCardUser {
+  color: #6f6f6f;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.postCardContent {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.postCardButtons {
+  display: flex;
+  width: 98px;
+  height: 27.886px;
+  padding: 4.667px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+
+  color: #6f6f6f;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+

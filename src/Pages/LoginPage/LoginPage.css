@@ -1,0 +1,46 @@
+
+.logoLabedit {
+  color: #373737;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.logoLabeditSubtitle {
+  color: #000;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.loginFormInput {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.loginFormInput > input {
+  width: 363px;
+  height: 60px;
+  flex-shrink: 0;
+  font-size: 18px;
+}
+
+.loginFormButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.loginFormButtons > button {
+  display: flex;
+  width: 365px;
+  padding: 13px 133px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
